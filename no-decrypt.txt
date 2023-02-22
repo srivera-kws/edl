@@ -1,1 +1,2 @@
 *.bpi.com.ph
+www.bpi.ph
