@@ -1,1 +1,1 @@
-*.badssl.com
+www.bpi.com.ph
