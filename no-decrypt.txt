@@ -2,3 +2,4 @@
 www.bpi.ph
 bpi.com
 raw.githubusercontent.com
+dns.google
