@@ -4,3 +4,4 @@ bpi.com
 raw.githubusercontent.com
 dns.google
 dns.resolver.com
+partas.com
